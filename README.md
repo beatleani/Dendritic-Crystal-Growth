@@ -1,2 +1,2 @@
-# MATLAB-Simulations
-This repository consists of some MATLAB codes for the course MM3110 : Computational Materials. 
+# Dendritic Crystal Growth
+This repository contains MATLAB implementation for isotropic and anisotropic dendritic crystal growth as proposed by Kobayashi in "Modeling and numerical simulations of dendritic crystal growth"
